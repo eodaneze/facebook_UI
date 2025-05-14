@@ -1,0 +1,11 @@
+@media(max-width: 600px){
+    .all-container{
+        
+        flex-direction: column;
+        gap: 5px;
+    }
+    .left-box h1 span:last-child{
+         font-size: 14px;
+    }
+   
+}
